@@ -1,0 +1,8 @@
+{
+    "require": {
+        "elasticsearch/elasticsearch": "^7.9",
+        "laravel/scout": "^8.3",
+        "tamayo/laravel-scout-elastic": "^8.0",
+        "bensampo/laravel-enum": "^3.1"
+    }
+}
